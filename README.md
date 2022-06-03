@@ -4,6 +4,10 @@ I'm Bowen Song and I edited this file!
 
 I'm Bowen Song and I edited this file online!
 
+This is Bowen. Now is June 2nd, 2022. Back for review!
+
+Columbia Univeristy
+
 This is a very simple repository for practicing with git and GitHub. git is a utility for *version control*. When a body of code is tracked with git, it is easy to see how the software has evolved over time, to roll back changes when needed, and to incorporate modifications by multiple collaborators. In this activity, we're going to focus on core git workflows for single-person projects. We may do a follow-up activity later in the quarter on workflows for collaborative projects. 
 
 GitHub is a free online code hosting service that runs using git. We'll use git and GitHub to collaborate on code and to host the blogs on which you'll submit your homework. 
